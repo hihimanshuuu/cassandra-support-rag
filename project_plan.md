@@ -1,8 +1,7 @@
 # AI Support Assistant: Project Plan
 
 ## Goal
-RAG assistant over support cases, activity logs, TRs, and Confluence docs,
-with source attribution and switchable LLM providers (OpenAI, Anthropic, Gemini).
+- LLM providers (current): Gemini (free tier) + OpenAI. 
 
 ## Decisions
 - Sample data: Apache Cassandra docs (copied into own free Confluence Cloud space)

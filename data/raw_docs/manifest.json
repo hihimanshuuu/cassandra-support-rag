@@ -1,0 +1,746 @@
+[
+  {
+    "title": "Dynamo",
+    "version": "5.0",
+    "section": "architecture",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/dynamo.html",
+    "file": "data/raw_docs/5.0/architecture__dynamo.md",
+    "chars": 26638
+  },
+  {
+    "title": "Guarantees",
+    "version": "5.0",
+    "section": "architecture",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/guarantees.html",
+    "file": "data/raw_docs/5.0/architecture__guarantees.md",
+    "chars": 4734
+  },
+  {
+    "title": "Architecture",
+    "version": "5.0",
+    "section": "architecture",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/index.html",
+    "file": "data/raw_docs/5.0/architecture__index.md",
+    "chars": 257
+  },
+  {
+    "title": "Improved Internode Messaging",
+    "version": "5.0",
+    "section": "architecture",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/messaging.html",
+    "file": "data/raw_docs/5.0/architecture__messaging.md",
+    "chars": 15449
+  },
+  {
+    "title": "Overview",
+    "version": "5.0",
+    "section": "architecture",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/overview.html",
+    "file": "data/raw_docs/5.0/architecture__overview.md",
+    "chars": 4521
+  },
+  {
+    "title": "Storage Engine",
+    "version": "5.0",
+    "section": "architecture",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/storage-engine.html",
+    "file": "data/raw_docs/5.0/architecture__storage_engine.md",
+    "chars": 14797
+  },
+  {
+    "title": "Improved Streaming",
+    "version": "5.0",
+    "section": "architecture",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/streaming.html",
+    "file": "data/raw_docs/5.0/architecture__streaming.md",
+    "chars": 8327
+  },
+  {
+    "title": "Data Definition",
+    "version": "5.0",
+    "section": "cql",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/developing/cql/ddl.html",
+    "file": "data/raw_docs/5.0/cql__ddl.md",
+    "chars": 34160
+  },
+  {
+    "title": "Data Manipulation",
+    "version": "5.0",
+    "section": "cql",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/developing/cql/dml.html",
+    "file": "data/raw_docs/5.0/cql__dml.md",
+    "chars": 21849
+  },
+  {
+    "title": "Database Roles",
+    "version": "5.0",
+    "section": "cql",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/developing/cql/security.html",
+    "file": "data/raw_docs/5.0/cql__security.md",
+    "chars": 23734
+  },
+  {
+    "title": "Data Types",
+    "version": "5.0",
+    "section": "cql",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/developing/cql/types.html",
+    "file": "data/raw_docs/5.0/cql__types.md",
+    "chars": 21991
+  },
+  {
+    "title": "Cassandra Quickstart",
+    "version": "5.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/cassandra-quickstart.html",
+    "file": "data/raw_docs/5.0/getting_started__cassandra_quickstart.md",
+    "chars": 3164
+  },
+  {
+    "title": "Configuring Cassandra",
+    "version": "5.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/configuring.html",
+    "file": "data/raw_docs/5.0/getting_started__configuring.md",
+    "chars": 3387
+  },
+  {
+    "title": "Client drivers",
+    "version": "5.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/drivers.html",
+    "file": "data/raw_docs/5.0/getting_started__drivers.md",
+    "chars": 2402
+  },
+  {
+    "title": "Getting Started",
+    "version": "5.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/index.html",
+    "file": "data/raw_docs/5.0/getting_started__index.md",
+    "chars": 1581
+  },
+  {
+    "title": "Production recommendations",
+    "version": "5.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/production.html",
+    "file": "data/raw_docs/5.0/getting_started__production.md",
+    "chars": 6482
+  },
+  {
+    "title": "Inserting and querying",
+    "version": "5.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/querying.html",
+    "file": "data/raw_docs/5.0/getting_started__querying.md",
+    "chars": 1378
+  },
+  {
+    "title": "Storage-attached Indexing (SAI) Quickstart",
+    "version": "5.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/sai-quickstart.html",
+    "file": "data/raw_docs/5.0/getting_started__sai_quickstart.md",
+    "chars": 11163
+  },
+  {
+    "title": "Vector Search Quickstart",
+    "version": "5.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/vector-search-quickstart.html",
+    "file": "data/raw_docs/5.0/getting_started__vector_search_quickstart.md",
+    "chars": 6639
+  },
+  {
+    "title": "commitlog-archiving.properties file",
+    "version": "5.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_cl_archive_file.html",
+    "file": "data/raw_docs/5.0/configuration__cass_cl_archive_file.md",
+    "chars": 1737
+  },
+  {
+    "title": "cassandra-env.sh file",
+    "version": "5.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_env_sh_file.html",
+    "file": "data/raw_docs/5.0/configuration__cass_env_sh_file.md",
+    "chars": 4648
+  },
+  {
+    "title": "jvm-* files",
+    "version": "5.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_jvm_options_file.html",
+    "file": "data/raw_docs/5.0/configuration__cass_jvm_options_file.md",
+    "chars": 931
+  },
+  {
+    "title": "logback.xml file",
+    "version": "5.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_logback_xml_file.html",
+    "file": "data/raw_docs/5.0/configuration__cass_logback_xml_file.md",
+    "chars": 7283
+  },
+  {
+    "title": "cassandra-rackdc.properties file",
+    "version": "5.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_rackdc_file.html",
+    "file": "data/raw_docs/5.0/configuration__cass_rackdc_file.md",
+    "chars": 2370
+  },
+  {
+    "title": "cassandra-topologies.properties file",
+    "version": "5.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_topo_file.html",
+    "file": "data/raw_docs/5.0/configuration__cass_topo_file.md",
+    "chars": 1262
+  },
+  {
+    "title": "cassandra.yaml file configuration",
+    "version": "5.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_yaml_file.html",
+    "file": "data/raw_docs/5.0/configuration__cass_yaml_file.md",
+    "chars": 125768
+  },
+  {
+    "title": "Liberating cassandra.yaml Parameters' Names from Their Units",
+    "version": "5.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/configuration.html",
+    "file": "data/raw_docs/5.0/configuration__configuration.md",
+    "chars": 14955
+  },
+  {
+    "title": "Configuring Cassandra",
+    "version": "5.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/index.html",
+    "file": "data/raw_docs/5.0/configuration__index.md",
+    "chars": 430
+  },
+  {
+    "title": "Audit Logging",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/audit_logging.html",
+    "file": "data/raw_docs/5.0/operating__audit_logging.md",
+    "chars": 8417
+  },
+  {
+    "title": "Audit Logging",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/auditlogging.html",
+    "file": "data/raw_docs/5.0/operating__auditlogging.md",
+    "chars": 23528
+  },
+  {
+    "title": "Auto Repair",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/auto_repair.html",
+    "file": "data/raw_docs/5.0/operating__auto_repair.md",
+    "chars": 25922
+  },
+  {
+    "title": "Backups",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/backups.html",
+    "file": "data/raw_docs/5.0/operating__backups.md",
+    "chars": 19772
+  },
+  {
+    "title": "Bloom Filters",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/bloom_filters.html",
+    "file": "data/raw_docs/5.0/operating__bloom_filters.md",
+    "chars": 3002
+  },
+  {
+    "title": "Bulk Loading",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/bulk_loading.html",
+    "file": "data/raw_docs/5.0/operating__bulk_loading.md",
+    "chars": 31392
+  },
+  {
+    "title": "Change Data Capture",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/cdc.html",
+    "file": "data/raw_docs/5.0/operating__cdc.md",
+    "chars": 4205
+  },
+  {
+    "title": "Compaction",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/index.html",
+    "file": "data/raw_docs/5.0/operating__compaction__index.md",
+    "chars": 335
+  },
+  {
+    "title": "Leveled Compaction Strategy (LCS)",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/lcs.html",
+    "file": "data/raw_docs/5.0/operating__compaction__lcs.md",
+    "chars": 5102
+  },
+  {
+    "title": "Compaction overview",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/overview.html",
+    "file": "data/raw_docs/5.0/operating__compaction__overview.md",
+    "chars": 19291
+  },
+  {
+    "title": "Size Tiered Compaction Strategy (STCS)",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/stcs.html",
+    "file": "data/raw_docs/5.0/operating__compaction__stcs.md",
+    "chars": 5203
+  },
+  {
+    "title": "Tombstones",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/tombstones.html",
+    "file": "data/raw_docs/5.0/operating__compaction__tombstones.md",
+    "chars": 6599
+  },
+  {
+    "title": "Time Window Compaction Strategy (TWCS)",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/twcs.html",
+    "file": "data/raw_docs/5.0/operating__compaction__twcs.md",
+    "chars": 5944
+  },
+  {
+    "title": "Unified Compaction Strategy (UCS)",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/ucs.html",
+    "file": "data/raw_docs/5.0/operating__compaction__ucs.md",
+    "chars": 38669
+  },
+  {
+    "title": "Compression",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compression.html",
+    "file": "data/raw_docs/5.0/operating__compression.md",
+    "chars": 8874
+  },
+  {
+    "title": "Denylisting Partitions",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/denylisting_partitions.html",
+    "file": "data/raw_docs/5.0/operating__denylisting_partitions.md",
+    "chars": 6547
+  },
+  {
+    "title": "Full Query Logging",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/fqllogging.html",
+    "file": "data/raw_docs/5.0/operating__fqllogging.md",
+    "chars": 20363
+  },
+  {
+    "title": "Hardware Choices",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/hardware.html",
+    "file": "data/raw_docs/5.0/operating__hardware.md",
+    "chars": 4837
+  },
+  {
+    "title": "Hints",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/hints.html",
+    "file": "data/raw_docs/5.0/operating__hints.md",
+    "chars": 10102
+  },
+  {
+    "title": "Operating Cassandra",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/index.html",
+    "file": "data/raw_docs/5.0/operating__index.md",
+    "chars": 621
+  },
+  {
+    "title": "Logging",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/logging.html",
+    "file": "data/raw_docs/5.0/operating__logging.md",
+    "chars": 127
+  },
+  {
+    "title": "Monitoring",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/metrics.html",
+    "file": "data/raw_docs/5.0/operating__metrics.md",
+    "chars": 31069
+  },
+  {
+    "title": "Read repair",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/read_repair.html",
+    "file": "data/raw_docs/5.0/operating__read_repair.md",
+    "chars": 12343
+  },
+  {
+    "title": "Repair",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/repair.html",
+    "file": "data/raw_docs/5.0/operating__repair.md",
+    "chars": 7947
+  },
+  {
+    "title": "Security",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/security.html",
+    "file": "data/raw_docs/5.0/operating__security.md",
+    "chars": 27287
+  },
+  {
+    "title": "Snitch",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/snitch.html",
+    "file": "data/raw_docs/5.0/operating__snitch.md",
+    "chars": 7757
+  },
+  {
+    "title": "Adding, replacing, moving and removing nodes",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/topo_changes.html",
+    "file": "data/raw_docs/5.0/operating__topo_changes.md",
+    "chars": 7261
+  },
+  {
+    "title": "Transient Replication",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/transientreplication.html",
+    "file": "data/raw_docs/5.0/operating__transientreplication.md",
+    "chars": 8469
+  },
+  {
+    "title": "Virtual Tables",
+    "version": "5.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/virtualtables.html",
+    "file": "data/raw_docs/5.0/operating__virtualtables.md",
+    "chars": 27054
+  },
+  {
+    "title": "cqlsh: the CQL shell",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/cqlsh.html",
+    "file": "data/raw_docs/5.0/tools__cqlsh.md",
+    "chars": 16745
+  },
+  {
+    "title": "Cassandra Tools",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/index.html",
+    "file": "data/raw_docs/5.0/tools__index.md",
+    "chars": 198
+  },
+  {
+    "title": "cleanup",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/cleanup.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__cleanup.md",
+    "chars": 1538
+  },
+  {
+    "title": "compact",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/compact.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__compact.md",
+    "chars": 2264
+  },
+  {
+    "title": "compactionstats",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/compactionstats.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__compactionstats.md",
+    "chars": 1204
+  },
+  {
+    "title": "describecluster",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/describecluster.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__describecluster.md",
+    "chars": 1012
+  },
+  {
+    "title": "drain",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/drain.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__drain.md",
+    "chars": 974
+  },
+  {
+    "title": "flush",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/flush.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__flush.md",
+    "chars": 1265
+  },
+  {
+    "title": "gcstats",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/gcstats.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__gcstats.md",
+    "chars": 932
+  },
+  {
+    "title": "info",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/info.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__info.md",
+    "chars": 1166
+  },
+  {
+    "title": "netstats",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/netstats.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__netstats.md",
+    "chars": 1141
+  },
+  {
+    "title": "Nodetool",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/nodetool.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__nodetool.md",
+    "chars": 15175
+  },
+  {
+    "title": "repair",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/repair.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__repair.md",
+    "chars": 4607
+  },
+  {
+    "title": "ring",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/ring.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__ring.md",
+    "chars": 1391
+  },
+  {
+    "title": "snapshot",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/snapshot.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__snapshot.md",
+    "chars": 2186
+  },
+  {
+    "title": "status",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/status.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__status.md",
+    "chars": 1341
+  },
+  {
+    "title": "tablestats",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/tablestats.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__tablestats.md",
+    "chars": 3526
+  },
+  {
+    "title": "tpstats",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/tpstats.html",
+    "file": "data/raw_docs/5.0/tools__nodetool__tpstats.md",
+    "chars": 1082
+  },
+  {
+    "title": "SSTable Tools",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/index.html",
+    "file": "data/raw_docs/5.0/tools__sstable__index.md",
+    "chars": 790
+  },
+  {
+    "title": "sstabledump",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/sstabledump.html",
+    "file": "data/raw_docs/5.0/tools__sstable__sstabledump.md",
+    "chars": 8209
+  },
+  {
+    "title": "sstableloader",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/sstableloader.html",
+    "file": "data/raw_docs/5.0/tools__sstable__sstableloader.md",
+    "chars": 15110
+  },
+  {
+    "title": "sstablescrub",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/sstablescrub.html",
+    "file": "data/raw_docs/5.0/tools__sstable__sstablescrub.md",
+    "chars": 3555
+  },
+  {
+    "title": "sstableverify",
+    "version": "5.0",
+    "section": "tools",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/sstableverify.html",
+    "file": "data/raw_docs/5.0/tools__sstable__sstableverify.md",
+    "chars": 5329
+  },
+  {
+    "title": "Find The Misbehaving Nodes",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/finding_nodes.html",
+    "file": "data/raw_docs/5.0/troubleshooting__finding_nodes.md",
+    "chars": 7075
+  },
+  {
+    "title": "Troubleshooting",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/index.html",
+    "file": "data/raw_docs/5.0/troubleshooting__index.md",
+    "chars": 908
+  },
+  {
+    "title": "Cassandra Logs",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/reading_logs.html",
+    "file": "data/raw_docs/5.0/troubleshooting__reading_logs.md",
+    "chars": 12748
+  },
+  {
+    "title": "Use Nodetool",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/use_nodetool.html",
+    "file": "data/raw_docs/5.0/troubleshooting__use_nodetool.md",
+    "chars": 14885
+  },
+  {
+    "title": "Diving Deep, Use External Tools",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/use_tools.html",
+    "file": "data/raw_docs/5.0/troubleshooting__use_tools.md",
+    "chars": 27171
+  },
+  {
+    "title": "Installing Cassandra",
+    "version": "4.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/getting_started/installing.html",
+    "file": "data/raw_docs/4.0/getting_started__installing.md",
+    "chars": 12168
+  },
+  {
+    "title": "Configuring Cassandra",
+    "version": "4.0",
+    "section": "getting_started",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/getting_started/configuring.html",
+    "file": "data/raw_docs/4.0/getting_started__configuring.md",
+    "chars": 3479
+  },
+  {
+    "title": "cassandra.yaml file configuration",
+    "version": "4.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/configuration/cass_yaml_file.html",
+    "file": "data/raw_docs/4.0/configuration__cass_yaml_file.md",
+    "chars": 76102
+  },
+  {
+    "title": "cassandra-env.sh file",
+    "version": "4.0",
+    "section": "configuration",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/configuration/cass_env_sh_file.html",
+    "file": "data/raw_docs/4.0/configuration__cass_env_sh_file.md",
+    "chars": 4795
+  },
+  {
+    "title": "Repair",
+    "version": "4.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/operating/repair.html",
+    "file": "data/raw_docs/4.0/operating__repair.md",
+    "chars": 7868
+  },
+  {
+    "title": "Backups",
+    "version": "4.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/operating/backups.html",
+    "file": "data/raw_docs/4.0/operating__backups.md",
+    "chars": 19774
+  },
+  {
+    "title": "Adding, replacing, moving and removing nodes",
+    "version": "4.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/operating/topo_changes.html",
+    "file": "data/raw_docs/4.0/operating__topo_changes.md",
+    "chars": 5742
+  },
+  {
+    "title": "Hardware Choices",
+    "version": "4.0",
+    "section": "operating",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/operating/hardware.html",
+    "file": "data/raw_docs/4.0/operating__hardware.md",
+    "chars": 4837
+  }
+]

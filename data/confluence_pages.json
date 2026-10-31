@@ -1,0 +1,932 @@
+[
+  {
+    "slug": "configuration__cass_env_sh_file",
+    "title": "Configuration: cassandra-env.sh file (4.0)",
+    "version": "4.0",
+    "section": "configuration",
+    "page_id": "327790",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/327790/Configuration+cassandra-env.sh+file+4.0",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/configuration/cass_env_sh_file.html",
+    "status": "skipped (already exists)"
+  },
+  {
+    "slug": "configuration__cass_yaml_file",
+    "title": "Configuration: cassandra.yaml file configuration (4.0)",
+    "version": "4.0",
+    "section": "configuration",
+    "page_id": "327811",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/327811/Configuration+cassandra.yaml+file+configuration+4.0",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/configuration/cass_yaml_file.html",
+    "status": "skipped (already exists)"
+  },
+  {
+    "slug": "getting_started__configuring",
+    "title": "Getting Started: Configuring Cassandra (4.0)",
+    "version": "4.0",
+    "section": "getting_started",
+    "page_id": "65672",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65672/Getting+Started+Configuring+Cassandra+4.0",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/getting_started/configuring.html",
+    "status": "created"
+  },
+  {
+    "slug": "getting_started__installing",
+    "title": "Getting Started: Installing Cassandra (4.0)",
+    "version": "4.0",
+    "section": "getting_started",
+    "page_id": "491525",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491525/Getting+Started+Installing+Cassandra+4.0",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/getting_started/installing.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__backups",
+    "title": "Operating: Backups (4.0)",
+    "version": "4.0",
+    "section": "operating",
+    "page_id": "65692",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65692/Operating+Backups+4.0",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/operating/backups.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__hardware",
+    "title": "Operating: Hardware Choices (4.0)",
+    "version": "4.0",
+    "section": "operating",
+    "page_id": "524292",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/524292/Operating+Hardware+Choices+4.0",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/operating/hardware.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__repair",
+    "title": "Operating: Repair (4.0)",
+    "version": "4.0",
+    "section": "operating",
+    "page_id": "360700",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360700/Operating+Repair+4.0",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/operating/repair.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__topo_changes",
+    "title": "Operating: Adding, replacing, moving and removing nodes (4.0)",
+    "version": "4.0",
+    "section": "operating",
+    "page_id": "491568",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491568/Operating+Adding+replacing+moving+and+removing+nodes+4.0",
+    "source_url": "https://cassandra.apache.org/doc/4.0/cassandra/operating/topo_changes.html",
+    "status": "created"
+  },
+  {
+    "slug": "architecture__dynamo",
+    "title": "Architecture: Dynamo (5.0)",
+    "version": "5.0",
+    "section": "architecture",
+    "page_id": "65723",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65723/Architecture+Dynamo+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/dynamo.html",
+    "status": "created"
+  },
+  {
+    "slug": "architecture__guarantees",
+    "title": "Architecture: Guarantees (5.0)",
+    "version": "5.0",
+    "section": "architecture",
+    "page_id": "327847",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/327847/Architecture+Guarantees+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/guarantees.html",
+    "status": "created"
+  },
+  {
+    "slug": "architecture__index",
+    "title": "Architecture: Architecture (5.0)",
+    "version": "5.0",
+    "section": "architecture",
+    "page_id": "65768",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65768/Architecture+Architecture+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/index.html",
+    "status": "created"
+  },
+  {
+    "slug": "architecture__messaging",
+    "title": "Architecture: Improved Internode Messaging (5.0)",
+    "version": "5.0",
+    "section": "architecture",
+    "page_id": "491591",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491591/Architecture+Improved+Internode+Messaging+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/messaging.html",
+    "status": "created"
+  },
+  {
+    "slug": "architecture__overview",
+    "title": "Architecture: Overview (5.0)",
+    "version": "5.0",
+    "section": "architecture",
+    "page_id": "327867",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/327867/Architecture+Overview+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/overview.html",
+    "status": "created"
+  },
+  {
+    "slug": "architecture__storage_engine",
+    "title": "Architecture: Storage Engine (5.0)",
+    "version": "5.0",
+    "section": "architecture",
+    "page_id": "65788",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65788/Architecture+Storage+Engine+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/storage-engine.html",
+    "status": "created"
+  },
+  {
+    "slug": "architecture__streaming",
+    "title": "Architecture: Improved Streaming (5.0)",
+    "version": "5.0",
+    "section": "architecture",
+    "page_id": "524318",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/524318/Architecture+Improved+Streaming+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/architecture/streaming.html",
+    "status": "created"
+  },
+  {
+    "slug": "configuration__cass_cl_archive_file",
+    "title": "Configuration: commitlog-archiving.properties file (5.0)",
+    "version": "5.0",
+    "section": "configuration",
+    "page_id": "491625",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491625/Configuration+commitlog-archiving.properties+file+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_cl_archive_file.html",
+    "status": "created"
+  },
+  {
+    "slug": "configuration__cass_env_sh_file",
+    "title": "Configuration: cassandra-env.sh file (5.0)",
+    "version": "5.0",
+    "section": "configuration",
+    "page_id": "360726",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360726/Configuration+cassandra-env.sh+file+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_env_sh_file.html",
+    "status": "created"
+  },
+  {
+    "slug": "configuration__cass_jvm_options_file",
+    "title": "Configuration: jvm-* files (5.0)",
+    "version": "5.0",
+    "section": "configuration",
+    "page_id": "491645",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491645/Configuration+jvm-+files+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_jvm_options_file.html",
+    "status": "created"
+  },
+  {
+    "slug": "configuration__cass_logback_xml_file",
+    "title": "Configuration: logback.xml file (5.0)",
+    "version": "5.0",
+    "section": "configuration",
+    "page_id": "524353",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/524353/Configuration+logback.xml+file+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_logback_xml_file.html",
+    "status": "created"
+  },
+  {
+    "slug": "configuration__cass_rackdc_file",
+    "title": "Configuration: cassandra-rackdc.properties file (5.0)",
+    "version": "5.0",
+    "section": "configuration",
+    "page_id": "327901",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/327901/Configuration+cassandra-rackdc.properties+file+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_rackdc_file.html",
+    "status": "created"
+  },
+  {
+    "slug": "configuration__cass_topo_file",
+    "title": "Configuration: cassandra-topologies.properties file (5.0)",
+    "version": "5.0",
+    "section": "configuration",
+    "page_id": "294935",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/294935/Configuration+cassandra-topologies.properties+file+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_topo_file.html",
+    "status": "created"
+  },
+  {
+    "slug": "configuration__cass_yaml_file",
+    "title": "Configuration: cassandra.yaml file configuration (5.0)",
+    "version": "5.0",
+    "section": "configuration",
+    "page_id": "65820",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65820/Configuration+cassandra.yaml+file+configuration+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/cass_yaml_file.html",
+    "status": "created"
+  },
+  {
+    "slug": "configuration__configuration",
+    "title": "Configuration: Liberating cassandra.yaml Parameters' Names from Their Units (5.0)",
+    "version": "5.0",
+    "section": "configuration",
+    "page_id": "98526",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/98526/Configuration+Liberating+cassandra.yaml+Parameters+Names+from+Their+Units+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/configuration.html",
+    "status": "created"
+  },
+  {
+    "slug": "configuration__index",
+    "title": "Configuration: Configuring Cassandra (5.0)",
+    "version": "5.0",
+    "section": "configuration",
+    "page_id": "360746",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360746/Configuration+Configuring+Cassandra+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/configuration/index.html",
+    "status": "created"
+  },
+  {
+    "slug": "cql__ddl",
+    "title": "CQL: Data Definition (5.0)",
+    "version": "5.0",
+    "section": "cql",
+    "page_id": "589828",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/589828/CQL+Data+Definition+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/developing/cql/ddl.html",
+    "status": "created"
+  },
+  {
+    "slug": "cql__dml",
+    "title": "CQL: Data Manipulation (5.0)",
+    "version": "5.0",
+    "section": "cql",
+    "page_id": "98553",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/98553/CQL+Data+Manipulation+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/developing/cql/dml.html",
+    "status": "created"
+  },
+  {
+    "slug": "cql__security",
+    "title": "CQL: Database Roles (5.0)",
+    "version": "5.0",
+    "section": "cql",
+    "page_id": "360766",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360766/CQL+Database+Roles+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/developing/cql/security.html",
+    "status": "created"
+  },
+  {
+    "slug": "cql__types",
+    "title": "CQL: Data Types (5.0)",
+    "version": "5.0",
+    "section": "cql",
+    "page_id": "360787",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360787/CQL+Data+Types+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/developing/cql/types.html",
+    "status": "created"
+  },
+  {
+    "slug": "getting_started__cassandra_quickstart",
+    "title": "Getting Started: Cassandra Quickstart (5.0)",
+    "version": "5.0",
+    "section": "getting_started",
+    "page_id": "65859",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65859/Getting+Started+Cassandra+Quickstart+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/cassandra-quickstart.html",
+    "status": "created"
+  },
+  {
+    "slug": "getting_started__configuring",
+    "title": "Getting Started: Configuring Cassandra (5.0)",
+    "version": "5.0",
+    "section": "getting_started",
+    "page_id": "294963",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/294963/Getting+Started+Configuring+Cassandra+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/configuring.html",
+    "status": "created"
+  },
+  {
+    "slug": "getting_started__drivers",
+    "title": "Getting Started: Client drivers (5.0)",
+    "version": "5.0",
+    "section": "getting_started",
+    "page_id": "327921",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/327921/Getting+Started+Client+drivers+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/drivers.html",
+    "status": "created"
+  },
+  {
+    "slug": "getting_started__index",
+    "title": "Getting Started: Getting Started (5.0)",
+    "version": "5.0",
+    "section": "getting_started",
+    "page_id": "491665",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491665/Getting+Started+Getting+Started+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/index.html",
+    "status": "created"
+  },
+  {
+    "slug": "getting_started__production",
+    "title": "Getting Started: Production recommendations (5.0)",
+    "version": "5.0",
+    "section": "getting_started",
+    "page_id": "589863",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/589863/Getting+Started+Production+recommendations+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/production.html",
+    "status": "created"
+  },
+  {
+    "slug": "getting_started__querying",
+    "title": "Getting Started: Inserting and querying (5.0)",
+    "version": "5.0",
+    "section": "getting_started",
+    "page_id": "491688",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491688/Getting+Started+Inserting+and+querying+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/querying.html",
+    "status": "created"
+  },
+  {
+    "slug": "getting_started__sai_quickstart",
+    "title": "Getting Started: Storage-attached Indexing (SAI) Quickstart (5.0)",
+    "version": "5.0",
+    "section": "getting_started",
+    "page_id": "65880",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65880/Getting+Started+Storage-attached+Indexing+SAI+Quickstart+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/sai-quickstart.html",
+    "status": "created"
+  },
+  {
+    "slug": "getting_started__vector_search_quickstart",
+    "title": "Getting Started: Vector Search Quickstart (5.0)",
+    "version": "5.0",
+    "section": "getting_started",
+    "page_id": "328011",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/328011/Getting+Started+Vector+Search+Quickstart+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/getting-started/vector-search-quickstart.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__audit_logging",
+    "title": "Operating: Audit Logging (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "294983",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/294983/Operating+Audit+Logging+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/audit_logging.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__auditlogging",
+    "title": "Operating: Audit Logging (5.0) [operating__auditlogging]",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "328032",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/328032/Operating+Audit+Logging+5.0+operating__auditlogging",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/auditlogging.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__auto_repair",
+    "title": "Operating: Auto Repair (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "65903",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65903/Operating+Auto+Repair+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/auto_repair.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__backups",
+    "title": "Operating: Backups (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "65926",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65926/Operating+Backups+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/backups.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__bloom_filters",
+    "title": "Operating: Bloom Filters (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "295007",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295007/Operating+Bloom+Filters+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/bloom_filters.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__bulk_loading",
+    "title": "Operating: Bulk Loading (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "491711",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491711/Operating+Bulk+Loading+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/bulk_loading.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__cdc",
+    "title": "Operating: Change Data Capture (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "360824",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360824/Operating+Change+Data+Capture+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/cdc.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__compaction__index",
+    "title": "Operating: Compaction (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "295028",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295028/Operating+Compaction+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/index.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__compaction__lcs",
+    "title": "Operating: Leveled Compaction Strategy (LCS) (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "524386",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/524386/Operating+Leveled+Compaction+Strategy+LCS+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/lcs.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__compaction__overview",
+    "title": "Operating: Compaction overview (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "98587",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/98587/Operating+Compaction+overview+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/overview.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__compaction__stcs",
+    "title": "Operating: Size Tiered Compaction Strategy (STCS) (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "98608",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/98608/Operating+Size+Tiered+Compaction+Strategy+STCS+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/stcs.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__compaction__tombstones",
+    "title": "Operating: Tombstones (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "360857",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360857/Operating+Tombstones+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/tombstones.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__compaction__twcs",
+    "title": "Operating: Time Window Compaction Strategy (TWCS) (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "524409",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/524409/Operating+Time+Window+Compaction+Strategy+TWCS+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/twcs.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__compaction__ucs",
+    "title": "Operating: Unified Compaction Strategy (UCS) (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "360878",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360878/Operating+Unified+Compaction+Strategy+UCS+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compaction/ucs.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__compression",
+    "title": "Operating: Compression (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "98631",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/98631/Operating+Compression+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/compression.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__denylisting_partitions",
+    "title": "Operating: Denylisting Partitions (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "524431",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/524431/Operating+Denylisting+Partitions+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/denylisting_partitions.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__fqllogging",
+    "title": "Operating: Full Query Logging (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "328066",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/328066/Operating+Full+Query+Logging+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/fqllogging.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__hardware",
+    "title": "Operating: Hardware Choices (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "295054",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295054/Operating+Hardware+Choices+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/hardware.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__hints",
+    "title": "Operating: Hints (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "328097",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/328097/Operating+Hints+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/hints.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__index",
+    "title": "Operating: Operating Cassandra (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "360902",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360902/Operating+Operating+Cassandra+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/index.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__logging",
+    "title": "Operating: Logging (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "360922",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360922/Operating+Logging+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/logging.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__metrics",
+    "title": "Operating: Monitoring (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "295074",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295074/Operating+Monitoring+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/metrics.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__read_repair",
+    "title": "Operating: Read repair (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "589897",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/589897/Operating+Read+repair+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/read_repair.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__repair",
+    "title": "Operating: Repair (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "589926",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/589926/Operating+Repair+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/repair.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__security",
+    "title": "Operating: Security (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "328128",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/328128/Operating+Security+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/security.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__snitch",
+    "title": "Operating: Snitch (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "295103",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295103/Operating+Snitch+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/snitch.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__topo_changes",
+    "title": "Operating: Adding, replacing, moving and removing nodes (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "328169",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/328169/Operating+Adding+replacing+moving+and+removing+nodes+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/topo_changes.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__transientreplication",
+    "title": "Operating: Transient Replication (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "589949",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/589949/Operating+Transient+Replication+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/transientreplication.html",
+    "status": "created"
+  },
+  {
+    "slug": "operating__virtualtables",
+    "title": "Operating: Virtual Tables (5.0)",
+    "version": "5.0",
+    "section": "operating",
+    "page_id": "491753",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491753/Operating+Virtual+Tables+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/operating/virtualtables.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__cqlsh",
+    "title": "Tools: cqlsh: the CQL shell (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "295130",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295130/Tools+cqlsh+the+CQL+shell+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/cqlsh.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__index",
+    "title": "Tools: Cassandra Tools (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "491781",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491781/Tools+Cassandra+Tools+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/index.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__cleanup",
+    "title": "Tools: nodetool cleanup (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "65957",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65957/Tools+nodetool+cleanup+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/cleanup.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__compact",
+    "title": "Tools: nodetool compact (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "491801",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491801/Tools+nodetool+compact+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/compact.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__compactionstats",
+    "title": "Tools: nodetool compactionstats (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "65978",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/65978/Tools+nodetool+compactionstats+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/compactionstats.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__describecluster",
+    "title": "Tools: nodetool describecluster (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "524454",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/524454/Tools+nodetool+describecluster+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/describecluster.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__drain",
+    "title": "Tools: nodetool drain (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "295165",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295165/Tools+nodetool+drain+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/drain.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__flush",
+    "title": "Tools: nodetool flush (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "360945",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360945/Tools+nodetool+flush+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/flush.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__gcstats",
+    "title": "Tools: nodetool gcstats (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "589979",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/589979/Tools+nodetool+gcstats+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/gcstats.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__info",
+    "title": "Tools: nodetool info (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "295189",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295189/Tools+nodetool+info+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/info.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__netstats",
+    "title": "Tools: nodetool netstats (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "295210",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295210/Tools+nodetool+netstats+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/netstats.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__nodetool",
+    "title": "Tools: Nodetool (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "295231",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295231/Tools+Nodetool+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/nodetool.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__repair",
+    "title": "Tools: nodetool repair (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "491825",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491825/Tools+nodetool+repair+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/repair.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__ring",
+    "title": "Tools: nodetool ring (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "295252",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295252/Tools+nodetool+ring+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/ring.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__snapshot",
+    "title": "Tools: nodetool snapshot (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "590000",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/590000/Tools+nodetool+snapshot+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/snapshot.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__status",
+    "title": "Tools: nodetool status (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "66002",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/66002/Tools+nodetool+status+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/status.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__tablestats",
+    "title": "Tools: nodetool tablestats (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "590021",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/590021/Tools+nodetool+tablestats+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/tablestats.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__nodetool__tpstats",
+    "title": "Tools: nodetool tpstats (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "98671",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/98671/Tools+nodetool+tpstats+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/nodetool/tpstats.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__sstable__index",
+    "title": "Tools: SSTable Tools (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "98692",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/98692/Tools+SSTable+Tools+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/index.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__sstable__sstabledump",
+    "title": "Tools: sstabledump (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "295273",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295273/Tools+sstabledump+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/sstabledump.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__sstable__sstableloader",
+    "title": "Tools: sstableloader (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "98712",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/98712/Tools+sstableloader+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/sstableloader.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__sstable__sstablescrub",
+    "title": "Tools: sstablescrub (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "295296",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295296/Tools+sstablescrub+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/sstablescrub.html",
+    "status": "created"
+  },
+  {
+    "slug": "tools__sstable__sstableverify",
+    "title": "Tools: sstableverify (5.0)",
+    "version": "5.0",
+    "section": "tools",
+    "page_id": "360978",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/360978/Tools+sstableverify+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/managing/tools/sstable/sstableverify.html",
+    "status": "created"
+  },
+  {
+    "slug": "troubleshooting__finding_nodes",
+    "title": "Troubleshooting: Find The Misbehaving Nodes (5.0)",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "page_id": "361005",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/361005/Troubleshooting+Find+The+Misbehaving+Nodes+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/finding_nodes.html",
+    "status": "created"
+  },
+  {
+    "slug": "troubleshooting__index",
+    "title": "Troubleshooting: Troubleshooting (5.0)",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "page_id": "295329",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/295329/Troubleshooting+Troubleshooting+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/index.html",
+    "status": "created"
+  },
+  {
+    "slug": "troubleshooting__reading_logs",
+    "title": "Troubleshooting: Cassandra Logs (5.0)",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "page_id": "524496",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/524496/Troubleshooting+Cassandra+Logs+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/reading_logs.html",
+    "status": "created"
+  },
+  {
+    "slug": "troubleshooting__use_nodetool",
+    "title": "Troubleshooting: nodetool Use Nodetool (5.0)",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "page_id": "491846",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/491846/Troubleshooting+nodetool+Use+Nodetool+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/use_nodetool.html",
+    "status": "created"
+  },
+  {
+    "slug": "troubleshooting__use_tools",
+    "title": "Troubleshooting: Diving Deep, Use External Tools (5.0)",
+    "version": "5.0",
+    "section": "troubleshooting",
+    "page_id": "66029",
+    "url": "https://jamwalhimanshu3.atlassian.net/wiki/spaces/CD/pages/66029/Troubleshooting+Diving+Deep+Use+External+Tools+5.0",
+    "source_url": "https://cassandra.apache.org/doc/5.0/cassandra/troubleshooting/use_tools.html",
+    "status": "created"
+  }
+]
